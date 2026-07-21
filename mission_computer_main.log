@@ -1,0 +1,18 @@
+2025-05-15 09:00:01,[INFO] Mission Computer Booting...
+2025-05-15 09:00:03,[INFO] CPU Check Complete
+2025-05-15 09:00:05,[INFO] Memory Check Complete
+2025-05-15 09:00:07,[INFO] Sensor Initialization Complete
+2025-05-15 09:00:10,[INFO] Communication System Online
+2025-05-15 09:00:15,[INFO] Navigation System Online
+2025-05-15 09:01:05,[WARNING] Temperature Sensor Reading Unstable
+2025-05-15 09:01:20,[INFO] Rechecking Temperature Sensor
+2025-05-15 09:01:25,[WARNING] Temperature Sensor Response Delayed
+2025-05-15 09:01:40,[ERROR] Temperature Sensor Failure
+2025-05-15 09:01:50,[INFO] Switching to Backup Sensor
+2025-05-15 09:02:00,[ERROR] Backup Sensor Not Responding
+2025-05-15 09:02:15,[WARNING] Cooling System Temperature Rising
+2025-05-15 09:02:30,[ERROR] CPU Temperature Critical
+2025-05-15 09:02:45,[ERROR] Mission Control Communication Lost
+2025-05-15 09:03:00,[CRITICAL] Emergency Shutdown Initiated
+2025-05-15 09:03:05,[INFO] Saving System Logs
+2025-05-15 09:03:10,[INFO] Shutdown Complete
