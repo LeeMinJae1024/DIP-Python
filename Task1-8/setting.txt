@@ -1,0 +1,9 @@
+# 비어 있으면 모든 정보를 출력합니다.
+# 필요한 항목만 한 줄에 하나씩 적으면 해당 정보만 출력합니다.
+# operating_system
+# operating_system_version
+# cpu_type
+# cpu_core_count
+# memory_size_bytes
+# cpu_usage_percent
+# memory_usage_percent
